@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+dist/
+.netlify/
+.npm-cache/
+.npmrc
+qa-screenshots/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.env
+.env.*
