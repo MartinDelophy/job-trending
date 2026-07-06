@@ -6,7 +6,7 @@ Future Work Observatory is an interactive career trend explorer for 2025-2028 jo
 
 ## Live Demo
 
-https://future-work-observatory-yanghaixin.netlify.app
+https://job-trending.ai-creator.top/
 
 ## What It Does
 
